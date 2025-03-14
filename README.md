@@ -28,7 +28,7 @@ Here are the **10 projects** I will be working on during the internship:
 | 7           | Traffic Sign Recognition           | PyTorch/TensorFlow, GTSRB Dataset, Albumentations                                              | `Upcoming`   |
 | 8           | Mental Health Chatbot              | Rasa, SpaCy, Hugging Face Transformers                                                         | `Upcoming`   |
 | 9           | Stock Price Prediction             | LSTM, ARIMA, Alpha Vantage/Yahoo Finance API                                                   | `Upcoming`   |
-| 10          | Document Classifier                | Tesseract OCR, SpaCy, Hugging Face Transformers   
+| 10          | Document Classifier                | Tesseract OCR, SpaCy, Hugging Face Transformers                                                | `Upcoming`   |
 
 ## 🛠️ Tech Stack
 The projects will be implemented using:
