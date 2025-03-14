@@ -14,19 +14,21 @@ This repository will include:
 - **Research & Notes** (Summarized learnings and findings.)
 - **Progress Reports** (Daily/weekly updates on development and implementation.)
 
-## 🏆 AI Projects
-During this internship, I will be working on the following projects:
+## � Projects List
+Here are the **10 projects** I will be working on during the internship:
 
-1. **Sentiment Analysis for Product Reviews** – NLP-based review classification.
-2. **AI-Driven Image Caption Generator** – Generate captions using CNNs & RNNs.
-3. **Predictive Maintenance System for Machinery** – Predict equipment failures with time-series analysis.
-4. **AI Voice Assistant for Task Management** – Build a speech-based assistant.
-5. **Facial Expression Recognition System** – Classify emotions for mental health applications.
-6. **AI-Powered News Aggregator and Summarizer** – Scrape and summarize news articles.
-7. **Traffic Sign Recognition for Autonomous Driving** – Identify traffic signs using deep learning.
-8. **AI Chatbot for Mental Health Support** – Provide emotional support using NLP.
-9. **Stock Price Prediction with AI** – Forecast stock trends using LSTMs.
-10. **AI-Powered Document Classifier** – Categorize documents using OCR & NLP.
+| Project No. | Project Name                       | Tech Stack                                                                                     | Status       |
+|-------------|------------------------------------|------------------------------------------------------------------------------------------------|--------------|
+| 1           | Sentiment Analysis for Reviews     | Python, NLTK, SpaCy, Scikit-learn, TensorFlow                                                  | `In Progress`|
+| 2           | AI Image Caption Generator         | PyTorch/TensorFlow, OpenCV, MS COCO Dataset                                                    | `Upcoming`   |
+| 3           | Predictive Maintenance System      | Scikit-learn, Pandas, Dash, SciPy                                                              | `Upcoming`   |
+| 4           | AI Voice Assistant                 | SpeechRecognition, Google Speech API, Rasa                                                     | `Upcoming`   |
+| 5           | Facial Expression Recognition      | TensorFlow, OpenCV, FER2013 Dataset                                                            | `Upcoming`   |
+| 6           | News Aggregator & Summarizer       | BeautifulSoup, Hugging Face Transformers, Flask                                                | `Upcoming`   |
+| 7           | Traffic Sign Recognition           | PyTorch/TensorFlow, GTSRB Dataset, Albumentations                                              | `Upcoming`   |
+| 8           | Mental Health Chatbot              | Rasa, SpaCy, Hugging Face Transformers                                                         | `Upcoming`   |
+| 9           | Stock Price Prediction             | LSTM, ARIMA, Alpha Vantage/Yahoo Finance API                                                   | `Upcoming`   |
+| 10          | Document Classifier                | Tesseract OCR, SpaCy, Hugging Face Transformers   
 
 ## 🛠️ Tech Stack
 The projects will be implemented using:
