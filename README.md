@@ -19,8 +19,8 @@ Here are the **10 projects** I will be working on during the internship:
 
 | Project No. | Project Name                       | Tech Stack                                                                                     | Status       |
 |-------------|------------------------------------|------------------------------------------------------------------------------------------------|--------------|
-| 1           | Sentiment Analysis for Reviews     | Python, NLTK, SpaCy, Scikit-learn, TensorFlow                                                  | `In Progress`|
-| 2           | AI Image Caption Generator         | PyTorch/TensorFlow, OpenCV, MS COCO Dataset                                                    | `Upcoming`   |
+| 1           | Sentiment Analysis for Reviews     | Python, NLTK, SpaCy, Scikit-learn, TensorFlow                                                  | `Completed`|
+| 2           | AI Image Caption Generator         | PyTorch/TensorFlow, OpenCV, MS COCO Dataset                                                    | `In Progress`   |
 | 3           | Predictive Maintenance System      | Scikit-learn, Pandas, Dash, SciPy                                                              | `Upcoming`   |
 | 4           | AI Voice Assistant                 | SpeechRecognition, Google Speech API, Rasa                                                     | `Upcoming`   |
 | 5           | Facial Expression Recognition      | TensorFlow, OpenCV, FER2013 Dataset                                                            | `Upcoming`   |
