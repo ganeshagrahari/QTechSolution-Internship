@@ -83,7 +83,7 @@ st.markdown("---")
 st.markdown("""
     <div class="footer" style="text-align: center; font-size: 0.9em;">
         Powered by Hugging Face Transformers • 
-        <a href="https://huggingface.co/docs/transformers/main/en/model_doc/distilbert" target="_blank" style="color: #00b4d8;">DistilBERT Model</a> •
+        <a href="https://huggingface.co/docs/transformers/en/model_doc/roberta" target="_blank" style="color: #00b4d8;">Roberta Model</a> •
         Made with ❤️ using Streamlit
     </div>
 """, unsafe_allow_html=True)
